@@ -14,7 +14,7 @@
 </p>
 
 ## News
-
+- 📢 We have improved our model and devleoped a new framework Xolver: https://kagnlp.github.io/xolver.github.io/, It achievevs a new State-of-the-art results—98.1% on GSM8K, 94.4% on AIME’24, 93.7% on AIME’25, 99.8% on Math-500, and 91.6% on LiveCodeBench. 
 - 📢 With o3-mini CodeSim achieved a new pass@1 score of 98.8% on HumanEval and became 2'nd in [PaperwithCode LeaderBoard](https://paperswithcode.com/sota/code-generation-on-humaneval). Note that this is even without using any external debuggers! Results log can be found [here](https://huggingface.co/ashraful/CodeSIM/tree/main/results/HumanEval/CodeSIM/o3-mini).
 - 🎉 CodeSim got accepted in NAACL 2025 Findings.
 - 📢 Full results log can be found [here](https://huggingface.co/ashraful/CodeSIM/tree/main/results).
