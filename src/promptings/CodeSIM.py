@@ -287,7 +287,7 @@ class CodeSIM(DirectStrategy):
                     print(input_for_plan_refinement[0]['content'], flush=True)
 
                 plan = self.gpt_chat(
-                    processed_input=input_for_simulation
+                    processed_input=input_for_plan_refinement
                 )
 
                 if self.verbose >= VERBOSE_FULL:
